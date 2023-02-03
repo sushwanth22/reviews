@@ -1,0 +1,13 @@
+hr {
+    border-style: solid;
+    background-color: black;
+    height: 2px;
+}
+img {
+    height: 800px;
+    width: 600px;
+}
+table{
+    font-weight: bold;
+    border-spacing: 7px;
+}
