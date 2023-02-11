@@ -79,36 +79,51 @@ h3 {
     width: 150px;
 }
 
-a{
+a {
     color: #F7FD04;
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
 }
-li{
+
+li {
     color: #F7FD04;
     font-weight: bold;
 }
-.revhead{
+
+.revhead {
     color: whitesmoke;
     background-color: rgb(101, 21, 21);
     margin: 0px;
     padding: 10px 0px 15px 0px;
     font-size: 25px;
 }
-table{
-    color: azure;
-    font-weight: bold;
-    font-size: 15px;
-}
-p{
-    color: azure;
-    font-weight: bold;
-    font-size: 15px;
-}
-h4{
-    color: azure;
-    font-weight: bold;
-    font-size: 25px;
 
+table {
+    color: azure;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+p {
+    color: azure;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+h4 {
+    color: azure;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+main1 {
+    background-image: url(https://static.wixstatic.com/media/f7bda3_73f72fe0437e435b997e99180fcbfcd1~mv2.png/v1/fill/w_1175,h_661,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/f7bda3_73f72fe0437e435b997e99180fcbfcd1~mv2.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    color: black;
+    height: 100%;
 }
